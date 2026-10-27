@@ -22,11 +22,19 @@ A great README explains **what your project does**, makes people want to explore
 
 It can **create a README from scratch**, **redesign an existing one**, or **audit** an existing README without changing it.
 
-Its signature is a user-driven process, rather than a rigid template.
+Its signature is a user-driven process, rather than a rigid template. **Visual direction is approved before any changes.**
 
 | Discover | Art direct | Deliver |
 | :--- | :--- | :--- |
 | Inspect the actual repository, existing docs and assets. | Present 2–3 genuinely different directions and **wait for approval**. | Build a distinctive README and verify claims, commands, links and visuals. |
+
+## Choose your starting point
+
+| Starting point | ReadmeBloom's job | What stays non-negotiable |
+| :-- | :-- | :-- |
+| No README yet | Discover the project and draft an honest first impression. | No inferred features or made-up setup commands. |
+| Existing README | Improve the opening, composition, navigation and evidence. | Preserve useful technical instructions and links. |
+| Audit only | Identify visual, Markdown and documentation gaps. | No file edits without approval. |
 
 ## A short conversation before the design
 
