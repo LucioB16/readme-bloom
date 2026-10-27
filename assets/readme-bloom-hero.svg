@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 348" role="img" aria-labelledby="title desc">
+  <title id="title">ReadmeBloom</title>
+  <desc id="desc">A refined emerald sprout beside ReadmeBloom typography. Beautiful READMEs, thoughtfully designed.</desc>
+  <rect width="1200" height="348" rx="20" fill="#f5f5ed"/>
+  <rect x="22" y="22" width="1156" height="304" rx="14" fill="none" stroke="#d9e2d5" stroke-width="2"/>
+  <g transform="translate(175 79) scale(3.5)">
+    <path d="M24 43V23" stroke="#286c52" stroke-width="3.3" stroke-linecap="round" fill="none"/>
+    <path d="M24 27C9 25 6 15 10 7c12 0 18 9 14 20Z" fill="#8ab99e"/>
+    <path d="M24 29C39 26 43 17 39 9c-12 1-20 11-15 20Z" fill="#286c52"/>
+  </g>
+  <text x="413" y="156" fill="#19372b" font-family="Georgia,serif" font-size="73" letter-spacing="-2">ReadmeBloom</text>
+  <text x="415" y="211" fill="#527463" font-family="Arial,sans-serif" font-size="23">Beautiful READMEs, thoughtfully designed.</text>
+  <path d="M416 236H896" stroke="#a5cbb4" stroke-width="2"/>
+  <text x="417" y="268" fill="#698677" font-family="Arial,sans-serif" font-size="15" letter-spacing="3">INSPECT · ART DIRECT · APPROVE · VERIFY</text>
+</svg>

@@ -1,0 +1,4 @@
+interface:
+  display_name: "ReadmeBloom"
+  short_description: "Art-direct beautiful, trustworthy GitHub READMEs"
+  default_prompt: "Use $readme-bloom to inspect my repository, propose three visual directions, and wait for my approval before improving its README."
